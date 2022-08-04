@@ -22,7 +22,6 @@ scalacOptions ++= Seq(
   "-feature",
   "-language:_",
   "-unchecked",
-  "-target:jvm-1.8",
   "-Xlint:_,-missing-interpolator",
   "-Xfatal-warnings",
   "-Ywarn-dead-code",
